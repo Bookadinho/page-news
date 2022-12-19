@@ -1,1 +1,1 @@
-# page-news
+Página de notícias do projeto Booka
